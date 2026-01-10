@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lithuanian Flashcards</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="top">
+        <h1>Lithuanian Flashcards</h1>
+
+        <div class="controls">
+          <label class="label">
+            Category
+            <select id="category"></select>
+          </label>
+
+          <label class="label">
+            Mode
+            <select id="mode">
+              <option value="learn">Learn</option>
+              <option value="test">Test</option>
+            </select>
+          </label>
+
+          <div class="stats">
+            <div><span class="muted">Seen (session):</span> <span id="seenSession">0</span></div>
+            <div><span class="muted">Seen (unique):</span> <span id="seenUnique">0</span> / <span id="totalCat">0</span></div>
+            <div id="scoreRow" class="hidden"><span class="muted">Score (test):</span> <span id="score">0</span></div>
+          </div>
+        </div>
+      </header>
+
+      <section class="card">
+        <div class="prompt" id="prompt">Loading...</div>
+        <div class="pron" id="pronunciation"></div>
+
+        <!-- LEARN MODE -->
+        <div id="learnPanel">
+          <button id="reveal" class="btn">Reveal</button>
+          <div id="translation" class="translation hidden"></div>
+
+          <div class="row">
+            <button id="nextLearn" class="btn hidden">Next</button>
+            <div id="metaLearn" class="meta"></div>
+          </div>
+        </div>
+
+        <!-- TEST MODE -->
+        <div id="testPanel" class="hidden">
+          <input id="answer" class="input" type="text" placeholder="Type the English translation" />
+          <div class="row">
+            <button id="submit" class="btn">Submit</button>
+            <button id="nextTest" class="btn hidden">Next</button>
+          </div>
+          <div id="feedback" class="feedback"></div>
+          <div id="metaTest" class="meta"></div>
+        </div>
+      </section>
+
+      <p class="hint">
+        Learn = reveal the translation. Test = type the answer and earn score.
+      </p>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

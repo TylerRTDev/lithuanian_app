@@ -1,0 +1,3002 @@
+[
+  {
+    "lt": "labas",
+    "en": "hello (informal)",
+    "category": "01_greetings",
+    "pronunciation": "LAH-bahs"
+  },
+  {
+    "lt": "sveiki",
+    "en": "hello (plural/formal)",
+    "category": "01_greetings",
+    "pronunciation": "SVAY-kee"
+  },
+  {
+    "lt": "sveikas",
+    "en": "hello (to a man)",
+    "category": "01_greetings",
+    "pronunciation": "SVAY-kahs"
+  },
+  {
+    "lt": "sveika",
+    "en": "hello (to a woman)",
+    "category": "01_greetings",
+    "pronunciation": "SVAY-kah"
+  },
+  {
+    "lt": "laba diena",
+    "en": "good day",
+    "category": "01_greetings",
+    "pronunciation": "laba dyehna"
+  },
+  {
+    "lt": "labas rytas",
+    "en": "good morning",
+    "category": "01_greetings",
+    "pronunciation": "labas rytas"
+  },
+  {
+    "lt": "labas vakaras",
+    "en": "good evening",
+    "category": "01_greetings",
+    "pronunciation": "labas vakaras"
+  },
+  {
+    "lt": "labanakt",
+    "en": "good night",
+    "category": "01_greetings",
+    "pronunciation": "labanakt"
+  },
+  {
+    "lt": "viso gero",
+    "en": "goodbye",
+    "category": "01_greetings",
+    "pronunciation": "VEE-so GEH-ro"
+  },
+  {
+    "lt": "iki",
+    "en": "see you",
+    "category": "01_greetings",
+    "pronunciation": "iki"
+  },
+  {
+    "lt": "iki greito",
+    "en": "see you soon",
+    "category": "01_greetings",
+    "pronunciation": "iki grayto"
+  },
+  {
+    "lt": "iki pasimatymo",
+    "en": "see you later",
+    "category": "01_greetings",
+    "pronunciation": "iki pasimatymo"
+  },
+  {
+    "lt": "ačiū",
+    "en": "thank you|thanks",
+    "category": "01_greetings",
+    "pronunciation": "AH-choo"
+  },
+  {
+    "lt": "labai ačiū",
+    "en": "thank you very much",
+    "category": "01_greetings",
+    "pronunciation": "labeye achioo"
+  },
+  {
+    "lt": "prašau",
+    "en": "please|you're welcome",
+    "category": "01_greetings",
+    "pronunciation": "PRAH-shau"
+  },
+  {
+    "lt": "atsiprašau",
+    "en": "sorry|excuse me",
+    "category": "01_greetings",
+    "pronunciation": "atsiprashow"
+  },
+  {
+    "lt": "atleiskite",
+    "en": "excuse me (formal)",
+    "category": "01_greetings",
+    "pronunciation": "atlayskite"
+  },
+  {
+    "lt": "sveikinimai",
+    "en": "greetings",
+    "category": "01_greetings",
+    "pronunciation": "svaykinimeye"
+  },
+  {
+    "lt": "malonu susipažinti",
+    "en": "nice to meet you",
+    "category": "01_greetings",
+    "pronunciation": "malonu susipazhinti"
+  },
+  {
+    "lt": "kaip sekasi?",
+    "en": "how are you?",
+    "category": "01_greetings",
+    "pronunciation": "keyep sekasi"
+  },
+  {
+    "lt": "gerai",
+    "en": "fine|well",
+    "category": "01_greetings",
+    "pronunciation": "gereye"
+  },
+  {
+    "lt": "neblogai",
+    "en": "not bad",
+    "category": "01_greetings",
+    "pronunciation": "neblogeye"
+  },
+  {
+    "lt": "puikiai",
+    "en": "great",
+    "category": "01_greetings",
+    "pronunciation": "poo-eekyehye"
+  },
+  {
+    "lt": "taip",
+    "en": "yes",
+    "category": "01_greetings",
+    "pronunciation": "teyep"
+  },
+  {
+    "lt": "ne",
+    "en": "no",
+    "category": "01_greetings",
+    "pronunciation": "ne"
+  },
+  {
+    "lt": "gal",
+    "en": "maybe",
+    "category": "01_greetings",
+    "pronunciation": "gal"
+  },
+  {
+    "lt": "žinoma",
+    "en": "of course",
+    "category": "01_greetings",
+    "pronunciation": "zhinoma"
+  },
+  {
+    "lt": "aš nesuprantu",
+    "en": "I don't understand",
+    "category": "01_greetings",
+    "pronunciation": "ash nesuprantu"
+  },
+  {
+    "lt": "ar galite padėti?",
+    "en": "can you help?",
+    "category": "01_greetings",
+    "pronunciation": "ar galite padėti"
+  },
+  {
+    "lt": "pakartokite, prašau",
+    "en": "repeat, please",
+    "category": "01_greetings",
+    "pronunciation": "pakartokite prashow"
+  },
+  {
+    "lt": "lėtai, prašau",
+    "en": "slowly, please",
+    "category": "01_greetings",
+    "pronunciation": "lėteye prashow"
+  },
+  {
+    "lt": "kur yra tualetas?",
+    "en": "where is the toilet?",
+    "category": "01_greetings",
+    "pronunciation": "kur yra tualetas"
+  },
+  {
+    "lt": "kas tai?",
+    "en": "what is this?",
+    "category": "01_greetings",
+    "pronunciation": "kas teye"
+  },
+  {
+    "lt": "ką tai reiškia?",
+    "en": "what does it mean?",
+    "category": "01_greetings",
+    "pronunciation": "kaa teye rayshkyah"
+  },
+  {
+    "lt": "mano vardas ...",
+    "en": "my name is ...",
+    "category": "02_core_phrases",
+    "pronunciation": "mano vardas"
+  },
+  {
+    "lt": "aš esu iš ...",
+    "en": "I am from ...",
+    "category": "02_core_phrases",
+    "pronunciation": "ash esu ish"
+  },
+  {
+    "lt": "aš kalbu angliškai",
+    "en": "I speak English",
+    "category": "02_core_phrases",
+    "pronunciation": "ash kalbu anglishkeye"
+  },
+  {
+    "lt": "aš mokausi lietuvių kalbos",
+    "en": "I am learning Lithuanian",
+    "category": "02_core_phrases",
+    "pronunciation": "ash mokowsi lyehtuvioo kalbos"
+  },
+  {
+    "lt": "kalbate angliškai?",
+    "en": "do you speak English?",
+    "category": "02_core_phrases",
+    "pronunciation": "kalbate anglishkeye"
+  },
+  {
+    "lt": "aš noriu ...",
+    "en": "I want ...",
+    "category": "02_core_phrases",
+    "pronunciation": "ash noryoo"
+  },
+  {
+    "lt": "aš galiu ...",
+    "en": "I can ...",
+    "category": "02_core_phrases",
+    "pronunciation": "ash galyoo"
+  },
+  {
+    "lt": "aš negaliu",
+    "en": "I can't",
+    "category": "02_core_phrases",
+    "pronunciation": "ash negalyoo"
+  },
+  {
+    "lt": "aš turiu klausimą",
+    "en": "I have a question",
+    "category": "02_core_phrases",
+    "pronunciation": "ash turyoo klowsimaa"
+  },
+  {
+    "lt": "aš pavargau",
+    "en": "I am tired",
+    "category": "02_core_phrases",
+    "pronunciation": "ash pavargow"
+  },
+  {
+    "lt": "aš alkanas",
+    "en": "I am hungry (man)",
+    "category": "02_core_phrases",
+    "pronunciation": "ash alkanas"
+  },
+  {
+    "lt": "aš alkana",
+    "en": "I am hungry (woman)",
+    "category": "02_core_phrases",
+    "pronunciation": "ash alkana"
+  },
+  {
+    "lt": "aš ištroškęs",
+    "en": "I am thirsty (man)",
+    "category": "02_core_phrases",
+    "pronunciation": "ash ishtroshkehs"
+  },
+  {
+    "lt": "aš ištroškusi",
+    "en": "I am thirsty (woman)",
+    "category": "02_core_phrases",
+    "pronunciation": "ash ishtroshkusi"
+  },
+  {
+    "lt": "man patinka",
+    "en": "I like",
+    "category": "02_core_phrases",
+    "pronunciation": "man patinka"
+  },
+  {
+    "lt": "man nepatinka",
+    "en": "I don't like",
+    "category": "02_core_phrases",
+    "pronunciation": "man nepatinka"
+  },
+  {
+    "lt": "aš nežinau",
+    "en": "I don't know",
+    "category": "02_core_phrases",
+    "pronunciation": "ash nezhinow"
+  },
+  {
+    "lt": "aš žinau",
+    "en": "I know",
+    "category": "02_core_phrases",
+    "pronunciation": "ash zhinow"
+  },
+  {
+    "lt": "nesvarbu",
+    "en": "it doesn't matter",
+    "category": "02_core_phrases",
+    "pronunciation": "nesvarbu"
+  },
+  {
+    "lt": "gerai",
+    "en": "okay",
+    "category": "02_core_phrases",
+    "pronunciation": "gereye"
+  },
+  {
+    "lt": "puiku",
+    "en": "great",
+    "category": "02_core_phrases",
+    "pronunciation": "poo-eeku"
+  },
+  {
+    "lt": "atsargiai",
+    "en": "careful",
+    "category": "02_core_phrases",
+    "pronunciation": "atsargyehye"
+  },
+  {
+    "lt": "palaukite",
+    "en": "wait",
+    "category": "02_core_phrases",
+    "pronunciation": "palowkite"
+  },
+  {
+    "lt": "čia",
+    "en": "here",
+    "category": "02_core_phrases",
+    "pronunciation": "chyah"
+  },
+  {
+    "lt": "ten",
+    "en": "there",
+    "category": "02_core_phrases",
+    "pronunciation": "ten"
+  },
+  {
+    "lt": "dabar",
+    "en": "now",
+    "category": "02_core_phrases",
+    "pronunciation": "dabar"
+  },
+  {
+    "lt": "vėliau",
+    "en": "later",
+    "category": "02_core_phrases",
+    "pronunciation": "vėliow"
+  },
+  {
+    "lt": "šiandien",
+    "en": "today",
+    "category": "02_core_phrases",
+    "pronunciation": "shyahndyehn"
+  },
+  {
+    "lt": "rytoj",
+    "en": "tomorrow",
+    "category": "02_core_phrases",
+    "pronunciation": "rytoy"
+  },
+  {
+    "lt": "vakar",
+    "en": "yesterday",
+    "category": "02_core_phrases",
+    "pronunciation": "vakar"
+  },
+  {
+    "lt": "vienas momentas",
+    "en": "one moment",
+    "category": "02_core_phrases",
+    "pronunciation": "vyehnas momentas"
+  },
+  {
+    "lt": "kaip tai pasakyti lietuviškai?",
+    "en": "how do you say this in Lithuanian?",
+    "category": "02_core_phrases",
+    "pronunciation": "keyep teye pasakyti lyehtuvishkeye"
+  },
+  {
+    "lt": "aš ieškau ...",
+    "en": "I am looking for ...",
+    "category": "02_core_phrases",
+    "pronunciation": "ash yehshkow"
+  },
+  {
+    "lt": "aš pamiršau",
+    "en": "I forgot",
+    "category": "02_core_phrases",
+    "pronunciation": "ash pamirshow"
+  },
+  {
+    "lt": "aš prisimenu",
+    "en": "I remember",
+    "category": "02_core_phrases",
+    "pronunciation": "ash prisimenu"
+  },
+  {
+    "lt": "viskas gerai",
+    "en": "everything is fine",
+    "category": "02_core_phrases",
+    "pronunciation": "viskas gereye"
+  },
+  {
+    "lt": "man reikia pagalbos",
+    "en": "I need help",
+    "category": "02_core_phrases",
+    "pronunciation": "man raykyah pagalbos"
+  },
+  {
+    "lt": "man reikia",
+    "en": "I need",
+    "category": "02_core_phrases",
+    "pronunciation": "man raykyah"
+  },
+  {
+    "lt": "aš einu",
+    "en": "I am going",
+    "category": "02_core_phrases",
+    "pronunciation": "ash aynu"
+  },
+  {
+    "lt": "aš ateinu",
+    "en": "I am coming",
+    "category": "02_core_phrases",
+    "pronunciation": "ash ataynu"
+  },
+  {
+    "lt": "ar tai teisinga?",
+    "en": "is this correct?",
+    "category": "02_core_phrases",
+    "pronunciation": "ar teye taysinga"
+  },
+  {
+    "lt": "kur galiu rasti ...?",
+    "en": "where can I find ...?",
+    "category": "02_core_phrases",
+    "pronunciation": "kur galyoo rasti"
+  },
+  {
+    "lt": "aš",
+    "en": "I",
+    "category": "03_basics",
+    "pronunciation": "ash"
+  },
+  {
+    "lt": "tu",
+    "en": "you (singular informal)",
+    "category": "03_basics",
+    "pronunciation": "tu"
+  },
+  {
+    "lt": "jūs",
+    "en": "you (plural/formal)",
+    "category": "03_basics",
+    "pronunciation": "yoos"
+  },
+  {
+    "lt": "jis",
+    "en": "he",
+    "category": "03_basics",
+    "pronunciation": "yis"
+  },
+  {
+    "lt": "ji",
+    "en": "she",
+    "category": "03_basics",
+    "pronunciation": "yi"
+  },
+  {
+    "lt": "mes",
+    "en": "we",
+    "category": "03_basics",
+    "pronunciation": "mes"
+  },
+  {
+    "lt": "jie",
+    "en": "they (masc/mixed)",
+    "category": "03_basics",
+    "pronunciation": "yyeh"
+  },
+  {
+    "lt": "jos",
+    "en": "they (fem)",
+    "category": "03_basics",
+    "pronunciation": "yos"
+  },
+  {
+    "lt": "mano",
+    "en": "my",
+    "category": "03_basics",
+    "pronunciation": "mano"
+  },
+  {
+    "lt": "tavo",
+    "en": "your (informal)",
+    "category": "03_basics",
+    "pronunciation": "tavo"
+  },
+  {
+    "lt": "jūsų",
+    "en": "your (formal/plural)",
+    "category": "03_basics",
+    "pronunciation": "yoosoo"
+  },
+  {
+    "lt": "jo",
+    "en": "his",
+    "category": "03_basics",
+    "pronunciation": "yo"
+  },
+  {
+    "lt": "mūsų",
+    "en": "our",
+    "category": "03_basics",
+    "pronunciation": "moosoo"
+  },
+  {
+    "lt": "jų",
+    "en": "their",
+    "category": "03_basics",
+    "pronunciation": "yoo"
+  },
+  {
+    "lt": "kas",
+    "en": "who|what",
+    "category": "03_basics",
+    "pronunciation": "kas"
+  },
+  {
+    "lt": "ką",
+    "en": "what (object)",
+    "category": "03_basics",
+    "pronunciation": "kaa"
+  },
+  {
+    "lt": "kur",
+    "en": "where",
+    "category": "03_basics",
+    "pronunciation": "kur"
+  },
+  {
+    "lt": "kada",
+    "en": "when",
+    "category": "03_basics",
+    "pronunciation": "kada"
+  },
+  {
+    "lt": "kodėl",
+    "en": "why",
+    "category": "03_basics",
+    "pronunciation": "kodėl"
+  },
+  {
+    "lt": "kaip",
+    "en": "how",
+    "category": "03_basics",
+    "pronunciation": "keyep"
+  },
+  {
+    "lt": "kiek",
+    "en": "how much|how many",
+    "category": "03_basics",
+    "pronunciation": "kyehk"
+  },
+  {
+    "lt": "kuris",
+    "en": "which",
+    "category": "03_basics",
+    "pronunciation": "kuris"
+  },
+  {
+    "lt": "šis",
+    "en": "this (masc)",
+    "category": "03_basics",
+    "pronunciation": "shis"
+  },
+  {
+    "lt": "ši",
+    "en": "this (fem)",
+    "category": "03_basics",
+    "pronunciation": "shi"
+  },
+  {
+    "lt": "tas",
+    "en": "that (masc)",
+    "category": "03_basics",
+    "pronunciation": "tas"
+  },
+  {
+    "lt": "ta",
+    "en": "that (fem)",
+    "category": "03_basics",
+    "pronunciation": "ta"
+  },
+  {
+    "lt": "taip",
+    "en": "yes",
+    "category": "03_basics",
+    "pronunciation": "teyep"
+  },
+  {
+    "lt": "ne",
+    "en": "no",
+    "category": "03_basics",
+    "pronunciation": "ne"
+  },
+  {
+    "lt": "ir",
+    "en": "and",
+    "category": "03_basics",
+    "pronunciation": "ir"
+  },
+  {
+    "lt": "bet",
+    "en": "but",
+    "category": "03_basics",
+    "pronunciation": "bet"
+  },
+  {
+    "lt": "ar",
+    "en": "question particle",
+    "category": "03_basics",
+    "pronunciation": "ar"
+  },
+  {
+    "lt": "nes",
+    "en": "because",
+    "category": "03_basics",
+    "pronunciation": "nes"
+  },
+  {
+    "lt": "su",
+    "en": "with",
+    "category": "03_basics",
+    "pronunciation": "su"
+  },
+  {
+    "lt": "be",
+    "en": "without",
+    "category": "03_basics",
+    "pronunciation": "be"
+  },
+  {
+    "lt": "iš",
+    "en": "from",
+    "category": "03_basics",
+    "pronunciation": "ish"
+  },
+  {
+    "lt": "į",
+    "en": "to|into",
+    "category": "03_basics",
+    "pronunciation": "ee"
+  },
+  {
+    "lt": "ant",
+    "en": "on",
+    "category": "03_basics",
+    "pronunciation": "ant"
+  },
+  {
+    "lt": "po",
+    "en": "under|after",
+    "category": "03_basics",
+    "pronunciation": "po"
+  },
+  {
+    "lt": "prie",
+    "en": "near|by",
+    "category": "03_basics",
+    "pronunciation": "pryeh"
+  },
+  {
+    "lt": "tarp",
+    "en": "between",
+    "category": "03_basics",
+    "pronunciation": "tarp"
+  },
+  {
+    "lt": "dėl",
+    "en": "because of",
+    "category": "03_basics",
+    "pronunciation": "dėl"
+  },
+  {
+    "lt": "labai",
+    "en": "very",
+    "category": "03_basics",
+    "pronunciation": "labeye"
+  },
+  {
+    "lt": "truputį",
+    "en": "a little",
+    "category": "03_basics",
+    "pronunciation": "truputee"
+  },
+  {
+    "lt": "daug",
+    "en": "a lot",
+    "category": "03_basics",
+    "pronunciation": "dowg"
+  },
+  {
+    "lt": "mažai",
+    "en": "few|little",
+    "category": "03_basics",
+    "pronunciation": "mazheye"
+  },
+  {
+    "lt": "dabar",
+    "en": "now",
+    "category": "03_basics",
+    "pronunciation": "dabar"
+  },
+  {
+    "lt": "vėliau",
+    "en": "later",
+    "category": "03_basics",
+    "pronunciation": "vėliow"
+  },
+  {
+    "lt": "nulis",
+    "en": "0",
+    "category": "04_numbers",
+    "pronunciation": "nulis"
+  },
+  {
+    "lt": "vienas",
+    "en": "1",
+    "category": "04_numbers",
+    "pronunciation": "vyehnas"
+  },
+  {
+    "lt": "du",
+    "en": "2",
+    "category": "04_numbers",
+    "pronunciation": "du"
+  },
+  {
+    "lt": "trys",
+    "en": "3",
+    "category": "04_numbers",
+    "pronunciation": "trys"
+  },
+  {
+    "lt": "keturi",
+    "en": "4",
+    "category": "04_numbers",
+    "pronunciation": "keturi"
+  },
+  {
+    "lt": "penki",
+    "en": "5",
+    "category": "04_numbers",
+    "pronunciation": "penki"
+  },
+  {
+    "lt": "šeši",
+    "en": "6",
+    "category": "04_numbers",
+    "pronunciation": "sheshi"
+  },
+  {
+    "lt": "septyni",
+    "en": "7",
+    "category": "04_numbers",
+    "pronunciation": "septyni"
+  },
+  {
+    "lt": "aštuoni",
+    "en": "8",
+    "category": "04_numbers",
+    "pronunciation": "ashtwohni"
+  },
+  {
+    "lt": "devyni",
+    "en": "9",
+    "category": "04_numbers",
+    "pronunciation": "devyni"
+  },
+  {
+    "lt": "dešimt",
+    "en": "10",
+    "category": "04_numbers",
+    "pronunciation": "deshimt"
+  },
+  {
+    "lt": "vienuolika",
+    "en": "11",
+    "category": "04_numbers",
+    "pronunciation": "vyehnwohlika"
+  },
+  {
+    "lt": "dvylika",
+    "en": "12",
+    "category": "04_numbers",
+    "pronunciation": "dvylika"
+  },
+  {
+    "lt": "trylika",
+    "en": "13",
+    "category": "04_numbers",
+    "pronunciation": "trylika"
+  },
+  {
+    "lt": "keturiolika",
+    "en": "14",
+    "category": "04_numbers",
+    "pronunciation": "keturiolika"
+  },
+  {
+    "lt": "penkiolika",
+    "en": "15",
+    "category": "04_numbers",
+    "pronunciation": "penkiolika"
+  },
+  {
+    "lt": "šešiolika",
+    "en": "16",
+    "category": "04_numbers",
+    "pronunciation": "sheshiolika"
+  },
+  {
+    "lt": "septyniolika",
+    "en": "17",
+    "category": "04_numbers",
+    "pronunciation": "septyniolika"
+  },
+  {
+    "lt": "aštuoniolika",
+    "en": "18",
+    "category": "04_numbers",
+    "pronunciation": "ashtwohniolika"
+  },
+  {
+    "lt": "devyniolika",
+    "en": "19",
+    "category": "04_numbers",
+    "pronunciation": "devyniolika"
+  },
+  {
+    "lt": "dvidešimt",
+    "en": "20",
+    "category": "04_numbers",
+    "pronunciation": "dvideshimt"
+  },
+  {
+    "lt": "trisdešimt",
+    "en": "30",
+    "category": "04_numbers",
+    "pronunciation": "trisdeshimt"
+  },
+  {
+    "lt": "keturiasdešimt",
+    "en": "40",
+    "category": "04_numbers",
+    "pronunciation": "keturyahsdeshimt"
+  },
+  {
+    "lt": "penkiasdešimt",
+    "en": "50",
+    "category": "04_numbers",
+    "pronunciation": "penkyahsdeshimt"
+  },
+  {
+    "lt": "šešiasdešimt",
+    "en": "60",
+    "category": "04_numbers",
+    "pronunciation": "sheshyahsdeshimt"
+  },
+  {
+    "lt": "septyniasdešimt",
+    "en": "70",
+    "category": "04_numbers",
+    "pronunciation": "septynyahsdeshimt"
+  },
+  {
+    "lt": "aštuoniasdešimt",
+    "en": "80",
+    "category": "04_numbers",
+    "pronunciation": "ashtwohnyahsdeshimt"
+  },
+  {
+    "lt": "devyniasdešimt",
+    "en": "90",
+    "category": "04_numbers",
+    "pronunciation": "devynyahsdeshimt"
+  },
+  {
+    "lt": "šimtas",
+    "en": "100",
+    "category": "04_numbers",
+    "pronunciation": "shimtas"
+  },
+  {
+    "lt": "pirmas",
+    "en": "first",
+    "category": "04_numbers",
+    "pronunciation": "pirmas"
+  },
+  {
+    "lt": "antras",
+    "en": "second",
+    "category": "04_numbers",
+    "pronunciation": "antras"
+  },
+  {
+    "lt": "trečias",
+    "en": "third",
+    "category": "04_numbers",
+    "pronunciation": "trechyahs"
+  },
+  {
+    "lt": "ketvirtas",
+    "en": "fourth",
+    "category": "04_numbers",
+    "pronunciation": "ketvirtas"
+  },
+  {
+    "lt": "penktas",
+    "en": "fifth",
+    "category": "04_numbers",
+    "pronunciation": "penktas"
+  },
+  {
+    "lt": "kiek?",
+    "en": "how many?",
+    "category": "04_numbers",
+    "pronunciation": "kyehk"
+  },
+  {
+    "lt": "kaina",
+    "en": "price",
+    "category": "04_numbers",
+    "pronunciation": "keyena"
+  },
+  {
+    "lt": "brangu",
+    "en": "expensive",
+    "category": "04_numbers",
+    "pronunciation": "brangu"
+  },
+  {
+    "lt": "pigu",
+    "en": "cheap",
+    "category": "04_numbers",
+    "pronunciation": "pigu"
+  },
+  {
+    "lt": "nuolaida",
+    "en": "discount",
+    "category": "04_numbers",
+    "pronunciation": "nwohleyeda"
+  },
+  {
+    "lt": "suma",
+    "en": "total amount",
+    "category": "04_numbers",
+    "pronunciation": "suma"
+  },
+  {
+    "lt": "laikas",
+    "en": "time",
+    "category": "05_time",
+    "pronunciation": "leyekas"
+  },
+  {
+    "lt": "valanda",
+    "en": "hour",
+    "category": "05_time",
+    "pronunciation": "valanda"
+  },
+  {
+    "lt": "minutė",
+    "en": "minute",
+    "category": "05_time",
+    "pronunciation": "minutė"
+  },
+  {
+    "lt": "sekundė",
+    "en": "second",
+    "category": "05_time",
+    "pronunciation": "sekundė"
+  },
+  {
+    "lt": "rytas",
+    "en": "morning",
+    "category": "05_time",
+    "pronunciation": "rytas"
+  },
+  {
+    "lt": "diena",
+    "en": "day",
+    "category": "05_time",
+    "pronunciation": "dyehna"
+  },
+  {
+    "lt": "popietė",
+    "en": "afternoon",
+    "category": "05_time",
+    "pronunciation": "popyehtė"
+  },
+  {
+    "lt": "vakaras",
+    "en": "evening",
+    "category": "05_time",
+    "pronunciation": "vakaras"
+  },
+  {
+    "lt": "naktis",
+    "en": "night",
+    "category": "05_time",
+    "pronunciation": "naktis"
+  },
+  {
+    "lt": "šiandien",
+    "en": "today",
+    "category": "05_time",
+    "pronunciation": "shyahndyehn"
+  },
+  {
+    "lt": "rytoj",
+    "en": "tomorrow",
+    "category": "05_time",
+    "pronunciation": "rytoy"
+  },
+  {
+    "lt": "vakar",
+    "en": "yesterday",
+    "category": "05_time",
+    "pronunciation": "vakar"
+  },
+  {
+    "lt": "dabar",
+    "en": "now",
+    "category": "05_time",
+    "pronunciation": "dabar"
+  },
+  {
+    "lt": "greitai",
+    "en": "soon|quickly",
+    "category": "05_time",
+    "pronunciation": "grayteye"
+  },
+  {
+    "lt": "vėl",
+    "en": "again",
+    "category": "05_time",
+    "pronunciation": "vėl"
+  },
+  {
+    "lt": "visada",
+    "en": "always",
+    "category": "05_time",
+    "pronunciation": "visada"
+  },
+  {
+    "lt": "dažnai",
+    "en": "often",
+    "category": "05_time",
+    "pronunciation": "dazhneye"
+  },
+  {
+    "lt": "kartais",
+    "en": "sometimes",
+    "category": "05_time",
+    "pronunciation": "karteyes"
+  },
+  {
+    "lt": "retai",
+    "en": "rarely",
+    "category": "05_time",
+    "pronunciation": "reteye"
+  },
+  {
+    "lt": "niekada",
+    "en": "never",
+    "category": "05_time",
+    "pronunciation": "nyehkada"
+  },
+  {
+    "lt": "pirmadienis",
+    "en": "Monday",
+    "category": "05_time",
+    "pronunciation": "pirmadyehnis"
+  },
+  {
+    "lt": "antradienis",
+    "en": "Tuesday",
+    "category": "05_time",
+    "pronunciation": "antradyehnis"
+  },
+  {
+    "lt": "trečiadienis",
+    "en": "Wednesday",
+    "category": "05_time",
+    "pronunciation": "trechyahdyehnis"
+  },
+  {
+    "lt": "ketvirtadienis",
+    "en": "Thursday",
+    "category": "05_time",
+    "pronunciation": "ketvirtadyehnis"
+  },
+  {
+    "lt": "penktadienis",
+    "en": "Friday",
+    "category": "05_time",
+    "pronunciation": "penktadyehnis"
+  },
+  {
+    "lt": "šeštadienis",
+    "en": "Saturday",
+    "category": "05_time",
+    "pronunciation": "sheshtadyehnis"
+  },
+  {
+    "lt": "sekmadienis",
+    "en": "Sunday",
+    "category": "05_time",
+    "pronunciation": "sekmadyehnis"
+  },
+  {
+    "lt": "sausis",
+    "en": "January",
+    "category": "05_time",
+    "pronunciation": "sowsis"
+  },
+  {
+    "lt": "vasaris",
+    "en": "February",
+    "category": "05_time",
+    "pronunciation": "vasaris"
+  },
+  {
+    "lt": "kovas",
+    "en": "March",
+    "category": "05_time",
+    "pronunciation": "kovas"
+  },
+  {
+    "lt": "balandis",
+    "en": "April",
+    "category": "05_time",
+    "pronunciation": "balandis"
+  },
+  {
+    "lt": "gegužė",
+    "en": "May",
+    "category": "05_time",
+    "pronunciation": "geguzhė"
+  },
+  {
+    "lt": "birželis",
+    "en": "June",
+    "category": "05_time",
+    "pronunciation": "birzhelis"
+  },
+  {
+    "lt": "liepa",
+    "en": "July",
+    "category": "05_time",
+    "pronunciation": "lyehpa"
+  },
+  {
+    "lt": "rugpjūtis",
+    "en": "August",
+    "category": "05_time",
+    "pronunciation": "rugpyootis"
+  },
+  {
+    "lt": "rugsėjis",
+    "en": "September",
+    "category": "05_time",
+    "pronunciation": "rugsėyis"
+  },
+  {
+    "lt": "spalis",
+    "en": "October",
+    "category": "05_time",
+    "pronunciation": "spalis"
+  },
+  {
+    "lt": "lapkritis",
+    "en": "November",
+    "category": "05_time",
+    "pronunciation": "lapkritis"
+  },
+  {
+    "lt": "gruodis",
+    "en": "December",
+    "category": "05_time",
+    "pronunciation": "grwohdis"
+  },
+  {
+    "lt": "savaitė",
+    "en": "week",
+    "category": "05_time",
+    "pronunciation": "saveyetė"
+  },
+  {
+    "lt": "mėnuo",
+    "en": "month",
+    "category": "05_time",
+    "pronunciation": "mėnwoh"
+  },
+  {
+    "lt": "metai",
+    "en": "year",
+    "category": "05_time",
+    "pronunciation": "meteye"
+  },
+  {
+    "lt": "data",
+    "en": "date",
+    "category": "05_time",
+    "pronunciation": "data"
+  },
+  {
+    "lt": "ši savaitė",
+    "en": "this week",
+    "category": "05_time",
+    "pronunciation": "shi saveyetė"
+  },
+  {
+    "lt": "kitą savaitę",
+    "en": "next week",
+    "category": "05_time",
+    "pronunciation": "kitaa saveyeteh"
+  },
+  {
+    "lt": "šiandien vakare",
+    "en": "this evening",
+    "category": "05_time",
+    "pronunciation": "shyahndyehn vakare"
+  },
+  {
+    "lt": "rytoj ryte",
+    "en": "tomorrow morning",
+    "category": "05_time",
+    "pronunciation": "rytoy ryte"
+  },
+  {
+    "lt": "spalva",
+    "en": "color",
+    "category": "06_colors",
+    "pronunciation": "spalva"
+  },
+  {
+    "lt": "juodas",
+    "en": "black",
+    "category": "06_colors",
+    "pronunciation": "ywohdas"
+  },
+  {
+    "lt": "baltas",
+    "en": "white",
+    "category": "06_colors",
+    "pronunciation": "baltas"
+  },
+  {
+    "lt": "pilkas",
+    "en": "gray",
+    "category": "06_colors",
+    "pronunciation": "pilkas"
+  },
+  {
+    "lt": "raudonas",
+    "en": "red",
+    "category": "06_colors",
+    "pronunciation": "rowdonas"
+  },
+  {
+    "lt": "oranžinis",
+    "en": "orange",
+    "category": "06_colors",
+    "pronunciation": "oranzhinis"
+  },
+  {
+    "lt": "geltonas",
+    "en": "yellow",
+    "category": "06_colors",
+    "pronunciation": "geltonas"
+  },
+  {
+    "lt": "žalias",
+    "en": "green",
+    "category": "06_colors",
+    "pronunciation": "zhalyahs"
+  },
+  {
+    "lt": "mėlynas",
+    "en": "blue",
+    "category": "06_colors",
+    "pronunciation": "mėlynas"
+  },
+  {
+    "lt": "rudas",
+    "en": "brown",
+    "category": "06_colors",
+    "pronunciation": "rudas"
+  },
+  {
+    "lt": "rožinis",
+    "en": "pink",
+    "category": "06_colors",
+    "pronunciation": "rozhinis"
+  },
+  {
+    "lt": "violetinis",
+    "en": "purple",
+    "category": "06_colors",
+    "pronunciation": "violetinis"
+  },
+  {
+    "lt": "šeima",
+    "en": "family",
+    "category": "07_family",
+    "pronunciation": "shayma"
+  },
+  {
+    "lt": "mama",
+    "en": "mom",
+    "category": "07_family",
+    "pronunciation": "mama"
+  },
+  {
+    "lt": "tėtis",
+    "en": "dad",
+    "category": "07_family",
+    "pronunciation": "tėtis"
+  },
+  {
+    "lt": "tėvas",
+    "en": "father",
+    "category": "07_family",
+    "pronunciation": "tėvas"
+  },
+  {
+    "lt": "motina",
+    "en": "mother",
+    "category": "07_family",
+    "pronunciation": "motina"
+  },
+  {
+    "lt": "tėvai",
+    "en": "parents",
+    "category": "07_family",
+    "pronunciation": "tėveye"
+  },
+  {
+    "lt": "vaikas",
+    "en": "child",
+    "category": "07_family",
+    "pronunciation": "veyekas"
+  },
+  {
+    "lt": "sūnus",
+    "en": "son",
+    "category": "07_family",
+    "pronunciation": "soonus"
+  },
+  {
+    "lt": "duktė",
+    "en": "daughter",
+    "category": "07_family",
+    "pronunciation": "duktė"
+  },
+  {
+    "lt": "brolis",
+    "en": "brother",
+    "category": "07_family",
+    "pronunciation": "brolis"
+  },
+  {
+    "lt": "sesuo",
+    "en": "sister",
+    "category": "07_family",
+    "pronunciation": "seswoh"
+  },
+  {
+    "lt": "vyras",
+    "en": "man|husband",
+    "category": "07_family",
+    "pronunciation": "vyras"
+  },
+  {
+    "lt": "žmona",
+    "en": "wife",
+    "category": "07_family",
+    "pronunciation": "zhmona"
+  },
+  {
+    "lt": "draugas",
+    "en": "friend (male)",
+    "category": "07_family",
+    "pronunciation": "drowgas"
+  },
+  {
+    "lt": "draugė",
+    "en": "friend (female)",
+    "category": "07_family",
+    "pronunciation": "drowgė"
+  },
+  {
+    "lt": "vaikinas",
+    "en": "boyfriend",
+    "category": "07_family",
+    "pronunciation": "veyekinas"
+  },
+  {
+    "lt": "mergina",
+    "en": "girlfriend|girl",
+    "category": "07_family",
+    "pronunciation": "mergina"
+  },
+  {
+    "lt": "senelis",
+    "en": "grandfather",
+    "category": "07_family",
+    "pronunciation": "senelis"
+  },
+  {
+    "lt": "senelė",
+    "en": "grandmother",
+    "category": "07_family",
+    "pronunciation": "senelė"
+  },
+  {
+    "lt": "anūkas",
+    "en": "grandson",
+    "category": "07_family",
+    "pronunciation": "anookas"
+  },
+  {
+    "lt": "anūkė",
+    "en": "granddaughter",
+    "category": "07_family",
+    "pronunciation": "anookė"
+  },
+  {
+    "lt": "dėdė",
+    "en": "uncle",
+    "category": "07_family",
+    "pronunciation": "dėdė"
+  },
+  {
+    "lt": "teta",
+    "en": "aunt",
+    "category": "07_family",
+    "pronunciation": "teta"
+  },
+  {
+    "lt": "pusbrolis",
+    "en": "cousin (male)",
+    "category": "07_family",
+    "pronunciation": "pusbrolis"
+  },
+  {
+    "lt": "pusseserė",
+    "en": "cousin (female)",
+    "category": "07_family",
+    "pronunciation": "pusseserė"
+  },
+  {
+    "lt": "žmogus",
+    "en": "person",
+    "category": "07_family",
+    "pronunciation": "zhmogus"
+  },
+  {
+    "lt": "moteris",
+    "en": "woman",
+    "category": "07_family",
+    "pronunciation": "moteris"
+  },
+  {
+    "lt": "berniukas",
+    "en": "boy",
+    "category": "07_family",
+    "pronunciation": "bernyookas"
+  },
+  {
+    "lt": "mergaitė",
+    "en": "girl (child)",
+    "category": "07_family",
+    "pronunciation": "mergeyetė"
+  },
+  {
+    "lt": "maistas",
+    "en": "food",
+    "category": "08_food",
+    "pronunciation": "meyestas"
+  },
+  {
+    "lt": "gėrimas",
+    "en": "drink",
+    "category": "08_food",
+    "pronunciation": "gėrimas"
+  },
+  {
+    "lt": "vanduo",
+    "en": "water",
+    "category": "08_food",
+    "pronunciation": "vandwoh"
+  },
+  {
+    "lt": "arbata",
+    "en": "tea",
+    "category": "08_food",
+    "pronunciation": "arbata"
+  },
+  {
+    "lt": "kava",
+    "en": "coffee",
+    "category": "08_food",
+    "pronunciation": "kava"
+  },
+  {
+    "lt": "pienas",
+    "en": "milk",
+    "category": "08_food",
+    "pronunciation": "pyehnas"
+  },
+  {
+    "lt": "sultys",
+    "en": "juice",
+    "category": "08_food",
+    "pronunciation": "sultys"
+  },
+  {
+    "lt": "cukrus",
+    "en": "sugar",
+    "category": "08_food",
+    "pronunciation": "cukrus"
+  },
+  {
+    "lt": "druska",
+    "en": "salt",
+    "category": "08_food",
+    "pronunciation": "druska"
+  },
+  {
+    "lt": "pipirai",
+    "en": "pepper",
+    "category": "08_food",
+    "pronunciation": "pipireye"
+  },
+  {
+    "lt": "duona",
+    "en": "bread",
+    "category": "08_food",
+    "pronunciation": "dwohna"
+  },
+  {
+    "lt": "sviestas",
+    "en": "butter",
+    "category": "08_food",
+    "pronunciation": "svyehstas"
+  },
+  {
+    "lt": "sūris",
+    "en": "cheese",
+    "category": "08_food",
+    "pronunciation": "sooris"
+  },
+  {
+    "lt": "kiaušinis",
+    "en": "egg",
+    "category": "08_food",
+    "pronunciation": "kiowshinis"
+  },
+  {
+    "lt": "mėsa",
+    "en": "meat",
+    "category": "08_food",
+    "pronunciation": "mėsa"
+  },
+  {
+    "lt": "vištiena",
+    "en": "chicken",
+    "category": "08_food",
+    "pronunciation": "vishtyehna"
+  },
+  {
+    "lt": "jautiena",
+    "en": "beef",
+    "category": "08_food",
+    "pronunciation": "yowtyehna"
+  },
+  {
+    "lt": "kiauliena",
+    "en": "pork",
+    "category": "08_food",
+    "pronunciation": "kiowlyehna"
+  },
+  {
+    "lt": "žuvis",
+    "en": "fish",
+    "category": "08_food",
+    "pronunciation": "zhuvis"
+  },
+  {
+    "lt": "ryžiai",
+    "en": "rice",
+    "category": "08_food",
+    "pronunciation": "ryzhyehye"
+  },
+  {
+    "lt": "makaronai",
+    "en": "pasta",
+    "category": "08_food",
+    "pronunciation": "makaroneye"
+  },
+  {
+    "lt": "bulvė",
+    "en": "potato",
+    "category": "08_food",
+    "pronunciation": "bulvė"
+  },
+  {
+    "lt": "daržovė",
+    "en": "vegetable",
+    "category": "08_food",
+    "pronunciation": "darzhovė"
+  },
+  {
+    "lt": "vaisius",
+    "en": "fruit",
+    "category": "08_food",
+    "pronunciation": "veyesyoos"
+  },
+  {
+    "lt": "obuolys",
+    "en": "apple",
+    "category": "08_food",
+    "pronunciation": "obwohlys"
+  },
+  {
+    "lt": "bananas",
+    "en": "banana",
+    "category": "08_food",
+    "pronunciation": "bananas"
+  },
+  {
+    "lt": "apelsinas",
+    "en": "orange (fruit)",
+    "category": "08_food",
+    "pronunciation": "apelsinas"
+  },
+  {
+    "lt": "citrina",
+    "en": "lemon",
+    "category": "08_food",
+    "pronunciation": "citrina"
+  },
+  {
+    "lt": "braškė",
+    "en": "strawberry",
+    "category": "08_food",
+    "pronunciation": "brashkė"
+  },
+  {
+    "lt": "vynuogė",
+    "en": "grape",
+    "category": "08_food",
+    "pronunciation": "vynwohgė"
+  },
+  {
+    "lt": "pomidoras",
+    "en": "tomato",
+    "category": "08_food",
+    "pronunciation": "pomidoras"
+  },
+  {
+    "lt": "agurkas",
+    "en": "cucumber",
+    "category": "08_food",
+    "pronunciation": "agurkas"
+  },
+  {
+    "lt": "morka",
+    "en": "carrot",
+    "category": "08_food",
+    "pronunciation": "morka"
+  },
+  {
+    "lt": "svogūnas",
+    "en": "onion",
+    "category": "08_food",
+    "pronunciation": "svogoonas"
+  },
+  {
+    "lt": "česnakas",
+    "en": "garlic",
+    "category": "08_food",
+    "pronunciation": "chesnakas"
+  },
+  {
+    "lt": "salotos",
+    "en": "salad|lettuce",
+    "category": "08_food",
+    "pronunciation": "salotos"
+  },
+  {
+    "lt": "kopūstas",
+    "en": "cabbage",
+    "category": "08_food",
+    "pronunciation": "kopoostas"
+  },
+  {
+    "lt": "grybas",
+    "en": "mushroom",
+    "category": "08_food",
+    "pronunciation": "grybas"
+  },
+  {
+    "lt": "pupelės",
+    "en": "beans",
+    "category": "08_food",
+    "pronunciation": "pupelės"
+  },
+  {
+    "lt": "žirniai",
+    "en": "peas",
+    "category": "08_food",
+    "pronunciation": "zhirnyehye"
+  },
+  {
+    "lt": "lęšiai",
+    "en": "lentils",
+    "category": "08_food",
+    "pronunciation": "lehshyehye"
+  },
+  {
+    "lt": "riešutas",
+    "en": "nut",
+    "category": "08_food",
+    "pronunciation": "ryehshutas"
+  },
+  {
+    "lt": "migdolas",
+    "en": "almond",
+    "category": "08_food",
+    "pronunciation": "migdolas"
+  },
+  {
+    "lt": "sėkla",
+    "en": "seed",
+    "category": "08_food",
+    "pronunciation": "sėkla"
+  },
+  {
+    "lt": "medus",
+    "en": "honey",
+    "category": "08_food",
+    "pronunciation": "medus"
+  },
+  {
+    "lt": "uogienė",
+    "en": "jam",
+    "category": "08_food",
+    "pronunciation": "wohgyehnė"
+  },
+  {
+    "lt": "šokoladas",
+    "en": "chocolate",
+    "category": "08_food",
+    "pronunciation": "shokoladas"
+  },
+  {
+    "lt": "sausainis",
+    "en": "cookie",
+    "category": "08_food",
+    "pronunciation": "sowseyenis"
+  },
+  {
+    "lt": "pyragas",
+    "en": "cake|pie",
+    "category": "08_food",
+    "pronunciation": "pyragas"
+  },
+  {
+    "lt": "ledai",
+    "en": "ice cream",
+    "category": "08_food",
+    "pronunciation": "ledeye"
+  },
+  {
+    "lt": "sriuba",
+    "en": "soup",
+    "category": "08_food",
+    "pronunciation": "sryooba"
+  },
+  {
+    "lt": "pusryčiai",
+    "en": "breakfast",
+    "category": "08_food",
+    "pronunciation": "pusrychyehye"
+  },
+  {
+    "lt": "pietūs",
+    "en": "lunch",
+    "category": "08_food",
+    "pronunciation": "pyehtoos"
+  },
+  {
+    "lt": "vakarienė",
+    "en": "dinner",
+    "category": "08_food",
+    "pronunciation": "vakaryehnė"
+  },
+  {
+    "lt": "užkandis",
+    "en": "snack",
+    "category": "08_food",
+    "pronunciation": "uzhkandis"
+  },
+  {
+    "lt": "restoranas",
+    "en": "restaurant",
+    "category": "08_food",
+    "pronunciation": "restoranas"
+  },
+  {
+    "lt": "kavinė",
+    "en": "café",
+    "category": "08_food",
+    "pronunciation": "kavinė"
+  },
+  {
+    "lt": "meniu",
+    "en": "menu",
+    "category": "08_food",
+    "pronunciation": "menyoo"
+  },
+  {
+    "lt": "sąskaita",
+    "en": "bill|check",
+    "category": "08_food",
+    "pronunciation": "saaskeyeta"
+  },
+  {
+    "lt": "skanu",
+    "en": "tasty",
+    "category": "08_food",
+    "pronunciation": "skanu"
+  },
+  {
+    "lt": "namas",
+    "en": "house",
+    "category": "09_home",
+    "pronunciation": "namas"
+  },
+  {
+    "lt": "butas",
+    "en": "apartment",
+    "category": "09_home",
+    "pronunciation": "butas"
+  },
+  {
+    "lt": "kambarys",
+    "en": "room",
+    "category": "09_home",
+    "pronunciation": "kambarys"
+  },
+  {
+    "lt": "virtuvė",
+    "en": "kitchen",
+    "category": "09_home",
+    "pronunciation": "virtuvė"
+  },
+  {
+    "lt": "vonios kambarys",
+    "en": "bathroom",
+    "category": "09_home",
+    "pronunciation": "vonios kambarys"
+  },
+  {
+    "lt": "miegamasis",
+    "en": "bedroom",
+    "category": "09_home",
+    "pronunciation": "myehgamasis"
+  },
+  {
+    "lt": "svetainė",
+    "en": "living room",
+    "category": "09_home",
+    "pronunciation": "sveteyenė"
+  },
+  {
+    "lt": "durys",
+    "en": "door",
+    "category": "09_home",
+    "pronunciation": "durys"
+  },
+  {
+    "lt": "langas",
+    "en": "window",
+    "category": "09_home",
+    "pronunciation": "langas"
+  },
+  {
+    "lt": "siena",
+    "en": "wall",
+    "category": "09_home",
+    "pronunciation": "syehna"
+  },
+  {
+    "lt": "grindys",
+    "en": "floor",
+    "category": "09_home",
+    "pronunciation": "grindys"
+  },
+  {
+    "lt": "lubos",
+    "en": "ceiling",
+    "category": "09_home",
+    "pronunciation": "lubos"
+  },
+  {
+    "lt": "stalas",
+    "en": "table",
+    "category": "09_home",
+    "pronunciation": "stalas"
+  },
+  {
+    "lt": "kėdė",
+    "en": "chair",
+    "category": "09_home",
+    "pronunciation": "kėdė"
+  },
+  {
+    "lt": "lova",
+    "en": "bed",
+    "category": "09_home",
+    "pronunciation": "lova"
+  },
+  {
+    "lt": "spinta",
+    "en": "wardrobe",
+    "category": "09_home",
+    "pronunciation": "spinta"
+  },
+  {
+    "lt": "lentyna",
+    "en": "shelf",
+    "category": "09_home",
+    "pronunciation": "lentyna"
+  },
+  {
+    "lt": "sofa",
+    "en": "sofa",
+    "category": "09_home",
+    "pronunciation": "sofa"
+  },
+  {
+    "lt": "kilimas",
+    "en": "carpet",
+    "category": "09_home",
+    "pronunciation": "kilimas"
+  },
+  {
+    "lt": "šviesa",
+    "en": "light",
+    "category": "09_home",
+    "pronunciation": "shvyehsa"
+  },
+  {
+    "lt": "lempa",
+    "en": "lamp",
+    "category": "09_home",
+    "pronunciation": "lempa"
+  },
+  {
+    "lt": "raktas",
+    "en": "key",
+    "category": "09_home",
+    "pronunciation": "raktas"
+  },
+  {
+    "lt": "telefonas",
+    "en": "phone",
+    "category": "09_home",
+    "pronunciation": "telefonas"
+  },
+  {
+    "lt": "kompiuteris",
+    "en": "computer",
+    "category": "09_home",
+    "pronunciation": "kompyooteris"
+  },
+  {
+    "lt": "įkroviklis",
+    "en": "charger",
+    "category": "09_home",
+    "pronunciation": "eekroviklis"
+  },
+  {
+    "lt": "knyga",
+    "en": "book",
+    "category": "09_home",
+    "pronunciation": "knyga"
+  },
+  {
+    "lt": "rašiklis",
+    "en": "pen",
+    "category": "09_home",
+    "pronunciation": "rashiklis"
+  },
+  {
+    "lt": "pieštukas",
+    "en": "pencil",
+    "category": "09_home",
+    "pronunciation": "pyehshtukas"
+  },
+  {
+    "lt": "popierius",
+    "en": "paper",
+    "category": "09_home",
+    "pronunciation": "popyehryoos"
+  },
+  {
+    "lt": "kuprinė",
+    "en": "backpack",
+    "category": "09_home",
+    "pronunciation": "kuprinė"
+  },
+  {
+    "lt": "drabužiai",
+    "en": "clothes",
+    "category": "09_home",
+    "pronunciation": "drabuzhyehye"
+  },
+  {
+    "lt": "marškiniai",
+    "en": "shirt",
+    "category": "09_home",
+    "pronunciation": "marshkinyehye"
+  },
+  {
+    "lt": "kelnės",
+    "en": "pants",
+    "category": "09_home",
+    "pronunciation": "kelnės"
+  },
+  {
+    "lt": "sijonas",
+    "en": "skirt",
+    "category": "09_home",
+    "pronunciation": "siyonas"
+  },
+  {
+    "lt": "suknelė",
+    "en": "dress",
+    "category": "09_home",
+    "pronunciation": "suknelė"
+  },
+  {
+    "lt": "batai",
+    "en": "shoes",
+    "category": "09_home",
+    "pronunciation": "bateye"
+  },
+  {
+    "lt": "striukė",
+    "en": "jacket",
+    "category": "09_home",
+    "pronunciation": "stryookė"
+  },
+  {
+    "lt": "kepurė",
+    "en": "hat",
+    "category": "09_home",
+    "pronunciation": "kepurė"
+  },
+  {
+    "lt": "pirštinės",
+    "en": "gloves",
+    "category": "09_home",
+    "pronunciation": "pirshtinės"
+  },
+  {
+    "lt": "skėtis",
+    "en": "umbrella",
+    "category": "09_home",
+    "pronunciation": "skėtis"
+  },
+  {
+    "lt": "miestas",
+    "en": "city",
+    "category": "10_travel",
+    "pronunciation": "myehstas"
+  },
+  {
+    "lt": "kaimas",
+    "en": "village",
+    "category": "10_travel",
+    "pronunciation": "keyemas"
+  },
+  {
+    "lt": "gatvė",
+    "en": "street",
+    "category": "10_travel",
+    "pronunciation": "gatvė"
+  },
+  {
+    "lt": "aikštė",
+    "en": "square",
+    "category": "10_travel",
+    "pronunciation": "eyekshtė"
+  },
+  {
+    "lt": "parkas",
+    "en": "park",
+    "category": "10_travel",
+    "pronunciation": "parkas"
+  },
+  {
+    "lt": "parduotuvė",
+    "en": "shop",
+    "category": "10_travel",
+    "pronunciation": "pardwohtuvė"
+  },
+  {
+    "lt": "prekybos centras",
+    "en": "shopping mall",
+    "category": "10_travel",
+    "pronunciation": "prekybos centras"
+  },
+  {
+    "lt": "turgus",
+    "en": "market",
+    "category": "10_travel",
+    "pronunciation": "turgus"
+  },
+  {
+    "lt": "stotis",
+    "en": "station",
+    "category": "10_travel",
+    "pronunciation": "stotis"
+  },
+  {
+    "lt": "autobusas",
+    "en": "bus",
+    "category": "10_travel",
+    "pronunciation": "owtobusas"
+  },
+  {
+    "lt": "traukinys",
+    "en": "train",
+    "category": "10_travel",
+    "pronunciation": "trowkinys"
+  },
+  {
+    "lt": "bilietas",
+    "en": "ticket",
+    "category": "10_travel",
+    "pronunciation": "bilyehtas"
+  },
+  {
+    "lt": "oro uostas",
+    "en": "airport",
+    "category": "10_travel",
+    "pronunciation": "oro wohstas"
+  },
+  {
+    "lt": "lėktuvas",
+    "en": "airplane",
+    "category": "10_travel",
+    "pronunciation": "lėktuvas"
+  },
+  {
+    "lt": "taksi",
+    "en": "taxi",
+    "category": "10_travel",
+    "pronunciation": "taksi"
+  },
+  {
+    "lt": "automobilis",
+    "en": "car",
+    "category": "10_travel",
+    "pronunciation": "owtomobilis"
+  },
+  {
+    "lt": "dviratis",
+    "en": "bicycle",
+    "category": "10_travel",
+    "pronunciation": "dviratis"
+  },
+  {
+    "lt": "pėsčiomis",
+    "en": "on foot",
+    "category": "10_travel",
+    "pronunciation": "pėschiomis"
+  },
+  {
+    "lt": "žemėlapis",
+    "en": "map",
+    "category": "10_travel",
+    "pronunciation": "zhemėlapis"
+  },
+  {
+    "lt": "kairė",
+    "en": "left",
+    "category": "10_travel",
+    "pronunciation": "keyerė"
+  },
+  {
+    "lt": "dešinė",
+    "en": "right",
+    "category": "10_travel",
+    "pronunciation": "deshinė"
+  },
+  {
+    "lt": "tiesiai",
+    "en": "straight",
+    "category": "10_travel",
+    "pronunciation": "tyehsyehye"
+  },
+  {
+    "lt": "sankryža",
+    "en": "intersection",
+    "category": "10_travel",
+    "pronunciation": "sankryzha"
+  },
+  {
+    "lt": "šviesoforas",
+    "en": "traffic light",
+    "category": "10_travel",
+    "pronunciation": "shvyehsoforas"
+  },
+  {
+    "lt": "įėjimas",
+    "en": "entrance",
+    "category": "10_travel",
+    "pronunciation": "eeėyimas"
+  },
+  {
+    "lt": "išėjimas",
+    "en": "exit",
+    "category": "10_travel",
+    "pronunciation": "ishėyimas"
+  },
+  {
+    "lt": "aš pasiklydau",
+    "en": "I am lost",
+    "category": "10_travel",
+    "pronunciation": "ash pasiklydow"
+  },
+  {
+    "lt": "padėkite rasti ...",
+    "en": "help me find ...",
+    "category": "10_travel",
+    "pronunciation": "padėkite rasti"
+  },
+  {
+    "lt": "viešbutis",
+    "en": "hotel",
+    "category": "10_travel",
+    "pronunciation": "vyehshbutis"
+  },
+  {
+    "lt": "rezervacija",
+    "en": "reservation",
+    "category": "10_travel",
+    "pronunciation": "rezervaciya"
+  },
+  {
+    "lt": "pasas",
+    "en": "passport",
+    "category": "10_travel",
+    "pronunciation": "pasas"
+  },
+  {
+    "lt": "dokumentai",
+    "en": "documents",
+    "category": "10_travel",
+    "pronunciation": "dokumenteye"
+  },
+  {
+    "lt": "bagažas",
+    "en": "luggage",
+    "category": "10_travel",
+    "pronunciation": "bagazhas"
+  },
+  {
+    "lt": "lagaminas",
+    "en": "suitcase",
+    "category": "10_travel",
+    "pronunciation": "lagaminas"
+  },
+  {
+    "lt": "policija",
+    "en": "police",
+    "category": "10_travel",
+    "pronunciation": "policiya"
+  },
+  {
+    "lt": "vaistinė",
+    "en": "pharmacy",
+    "category": "10_travel",
+    "pronunciation": "veyestinė"
+  },
+  {
+    "lt": "ligoninė",
+    "en": "hospital",
+    "category": "10_travel",
+    "pronunciation": "ligoninė"
+  },
+  {
+    "lt": "bankas",
+    "en": "bank",
+    "category": "10_travel",
+    "pronunciation": "bankas"
+  },
+  {
+    "lt": "bankomatas",
+    "en": "ATM",
+    "category": "10_travel",
+    "pronunciation": "bankomatas"
+  },
+  {
+    "lt": "paštas",
+    "en": "post office",
+    "category": "10_travel",
+    "pronunciation": "pashtas"
+  },
+  {
+    "lt": "muziejus",
+    "en": "museum",
+    "category": "10_travel",
+    "pronunciation": "muzyehyus"
+  },
+  {
+    "lt": "teatras",
+    "en": "theater",
+    "category": "10_travel",
+    "pronunciation": "teatras"
+  },
+  {
+    "lt": "būti",
+    "en": "to be",
+    "category": "11_verbs",
+    "pronunciation": "booti"
+  },
+  {
+    "lt": "turėti",
+    "en": "to have",
+    "category": "11_verbs",
+    "pronunciation": "turėti"
+  },
+  {
+    "lt": "daryti",
+    "en": "to do|to make",
+    "category": "11_verbs",
+    "pronunciation": "daryti"
+  },
+  {
+    "lt": "eiti",
+    "en": "to go (on foot)",
+    "category": "11_verbs",
+    "pronunciation": "ayti"
+  },
+  {
+    "lt": "važiuoti",
+    "en": "to go|to drive|to ride",
+    "category": "11_verbs",
+    "pronunciation": "vazhiwohti"
+  },
+  {
+    "lt": "ateiti",
+    "en": "to come",
+    "category": "11_verbs",
+    "pronunciation": "atayti"
+  },
+  {
+    "lt": "išeiti",
+    "en": "to leave|to go out",
+    "category": "11_verbs",
+    "pronunciation": "ishayti"
+  },
+  {
+    "lt": "matyti",
+    "en": "to see",
+    "category": "11_verbs",
+    "pronunciation": "matyti"
+  },
+  {
+    "lt": "žiūrėti",
+    "en": "to watch|to look",
+    "category": "11_verbs",
+    "pronunciation": "zhioorėti"
+  },
+  {
+    "lt": "girdėti",
+    "en": "to hear",
+    "category": "11_verbs",
+    "pronunciation": "girdėti"
+  },
+  {
+    "lt": "klausyti",
+    "en": "to listen",
+    "category": "11_verbs",
+    "pronunciation": "klowsyti"
+  },
+  {
+    "lt": "kalbėti",
+    "en": "to speak",
+    "category": "11_verbs",
+    "pronunciation": "kalbėti"
+  },
+  {
+    "lt": "skaityti",
+    "en": "to read",
+    "category": "11_verbs",
+    "pronunciation": "skeyetyti"
+  },
+  {
+    "lt": "rašyti",
+    "en": "to write",
+    "category": "11_verbs",
+    "pronunciation": "rashyti"
+  },
+  {
+    "lt": "mokytis",
+    "en": "to learn|to study",
+    "category": "11_verbs",
+    "pronunciation": "mokytis"
+  },
+  {
+    "lt": "dirbti",
+    "en": "to work",
+    "category": "11_verbs",
+    "pronunciation": "dirbti"
+  },
+  {
+    "lt": "gyventi",
+    "en": "to live",
+    "category": "11_verbs",
+    "pronunciation": "gyventi"
+  },
+  {
+    "lt": "valgyti",
+    "en": "to eat",
+    "category": "11_verbs",
+    "pronunciation": "valgyti"
+  },
+  {
+    "lt": "gerti",
+    "en": "to drink",
+    "category": "11_verbs",
+    "pronunciation": "gerti"
+  },
+  {
+    "lt": "pirkti",
+    "en": "to buy",
+    "category": "11_verbs",
+    "pronunciation": "pirkti"
+  },
+  {
+    "lt": "parduoti",
+    "en": "to sell",
+    "category": "11_verbs",
+    "pronunciation": "pardwohti"
+  },
+  {
+    "lt": "mokėti",
+    "en": "to pay|to know how",
+    "category": "11_verbs",
+    "pronunciation": "mokėti"
+  },
+  {
+    "lt": "norėti",
+    "en": "to want",
+    "category": "11_verbs",
+    "pronunciation": "norėti"
+  },
+  {
+    "lt": "mėgti",
+    "en": "to like",
+    "category": "11_verbs",
+    "pronunciation": "mėgti"
+  },
+  {
+    "lt": "mylėti",
+    "en": "to love",
+    "category": "11_verbs",
+    "pronunciation": "mylėti"
+  },
+  {
+    "lt": "galėti",
+    "en": "to be able",
+    "category": "11_verbs",
+    "pronunciation": "galėti"
+  },
+  {
+    "lt": "reikėti",
+    "en": "to need",
+    "category": "11_verbs",
+    "pronunciation": "raykėti"
+  },
+  {
+    "lt": "žinoti",
+    "en": "to know (a fact)",
+    "category": "11_verbs",
+    "pronunciation": "zhinoti"
+  },
+  {
+    "lt": "suprasti",
+    "en": "to understand",
+    "category": "11_verbs",
+    "pronunciation": "suprasti"
+  },
+  {
+    "lt": "atsiminti",
+    "en": "to remember",
+    "category": "11_verbs",
+    "pronunciation": "atsiminti"
+  },
+  {
+    "lt": "pamiršti",
+    "en": "to forget",
+    "category": "11_verbs",
+    "pronunciation": "pamirshti"
+  },
+  {
+    "lt": "rasti",
+    "en": "to find",
+    "category": "11_verbs",
+    "pronunciation": "rasti"
+  },
+  {
+    "lt": "ieškoti",
+    "en": "to search",
+    "category": "11_verbs",
+    "pronunciation": "yehshkoti"
+  },
+  {
+    "lt": "atidaryti",
+    "en": "to open",
+    "category": "11_verbs",
+    "pronunciation": "atidaryti"
+  },
+  {
+    "lt": "uždaryti",
+    "en": "to close",
+    "category": "11_verbs",
+    "pronunciation": "uzhdaryti"
+  },
+  {
+    "lt": "pradėti",
+    "en": "to start",
+    "category": "11_verbs",
+    "pronunciation": "pradėti"
+  },
+  {
+    "lt": "baigti",
+    "en": "to finish",
+    "category": "11_verbs",
+    "pronunciation": "beyegti"
+  },
+  {
+    "lt": "laukti",
+    "en": "to wait",
+    "category": "11_verbs",
+    "pronunciation": "lowkti"
+  },
+  {
+    "lt": "klausti",
+    "en": "to ask",
+    "category": "11_verbs",
+    "pronunciation": "klowsti"
+  },
+  {
+    "lt": "atsakyti",
+    "en": "to answer",
+    "category": "11_verbs",
+    "pronunciation": "atsakyti"
+  },
+  {
+    "lt": "padėti",
+    "en": "to help",
+    "category": "11_verbs",
+    "pronunciation": "padėti"
+  },
+  {
+    "lt": "duoti",
+    "en": "to give",
+    "category": "11_verbs",
+    "pronunciation": "dwohti"
+  },
+  {
+    "lt": "imti",
+    "en": "to take",
+    "category": "11_verbs",
+    "pronunciation": "imti"
+  },
+  {
+    "lt": "laikyti",
+    "en": "to hold|to keep",
+    "category": "11_verbs",
+    "pronunciation": "leyekyti"
+  },
+  {
+    "lt": "sėdėti",
+    "en": "to sit",
+    "category": "11_verbs",
+    "pronunciation": "sėdėti"
+  },
+  {
+    "lt": "stovėti",
+    "en": "to stand",
+    "category": "11_verbs",
+    "pronunciation": "stovėti"
+  },
+  {
+    "lt": "miegoti",
+    "en": "to sleep",
+    "category": "11_verbs",
+    "pronunciation": "myehgoti"
+  },
+  {
+    "lt": "keltis",
+    "en": "to get up",
+    "category": "11_verbs",
+    "pronunciation": "keltis"
+  },
+  {
+    "lt": "bėgti",
+    "en": "to run",
+    "category": "11_verbs",
+    "pronunciation": "bėgti"
+  },
+  {
+    "lt": "vaikščioti",
+    "en": "to walk around",
+    "category": "11_verbs",
+    "pronunciation": "veyekshchioti"
+  },
+  {
+    "lt": "plaukti",
+    "en": "to swim",
+    "category": "11_verbs",
+    "pronunciation": "plowkti"
+  },
+  {
+    "lt": "skambinti",
+    "en": "to call (phone)",
+    "category": "11_verbs",
+    "pronunciation": "skambinti"
+  },
+  {
+    "lt": "siųsti",
+    "en": "to send",
+    "category": "11_verbs",
+    "pronunciation": "sioosti"
+  },
+  {
+    "lt": "gauti",
+    "en": "to receive",
+    "category": "11_verbs",
+    "pronunciation": "gowti"
+  },
+  {
+    "lt": "atnešti",
+    "en": "to bring",
+    "category": "11_verbs",
+    "pronunciation": "atneshti"
+  },
+  {
+    "lt": "pasakyti",
+    "en": "to say|to tell",
+    "category": "11_verbs",
+    "pronunciation": "pasakyti"
+  },
+  {
+    "lt": "galvoti",
+    "en": "to think",
+    "category": "11_verbs",
+    "pronunciation": "galvoti"
+  },
+  {
+    "lt": "jausti",
+    "en": "to feel",
+    "category": "11_verbs",
+    "pronunciation": "yowsti"
+  },
+  {
+    "lt": "geras",
+    "en": "good",
+    "category": "12_adjectives",
+    "pronunciation": "geras"
+  },
+  {
+    "lt": "blogas",
+    "en": "bad",
+    "category": "12_adjectives",
+    "pronunciation": "blogas"
+  },
+  {
+    "lt": "gražus",
+    "en": "beautiful",
+    "category": "12_adjectives",
+    "pronunciation": "grazhus"
+  },
+  {
+    "lt": "bjaurus",
+    "en": "ugly",
+    "category": "12_adjectives",
+    "pronunciation": "byowrus"
+  },
+  {
+    "lt": "didelis",
+    "en": "big",
+    "category": "12_adjectives",
+    "pronunciation": "didelis"
+  },
+  {
+    "lt": "mažas",
+    "en": "small",
+    "category": "12_adjectives",
+    "pronunciation": "mazhas"
+  },
+  {
+    "lt": "ilgas",
+    "en": "long",
+    "category": "12_adjectives",
+    "pronunciation": "ilgas"
+  },
+  {
+    "lt": "trumpas",
+    "en": "short",
+    "category": "12_adjectives",
+    "pronunciation": "trumpas"
+  },
+  {
+    "lt": "naujas",
+    "en": "new",
+    "category": "12_adjectives",
+    "pronunciation": "nowyas"
+  },
+  {
+    "lt": "senas",
+    "en": "old",
+    "category": "12_adjectives",
+    "pronunciation": "senas"
+  },
+  {
+    "lt": "jaunas",
+    "en": "young",
+    "category": "12_adjectives",
+    "pronunciation": "yownas"
+  },
+  {
+    "lt": "šiltas",
+    "en": "warm",
+    "category": "12_adjectives",
+    "pronunciation": "shiltas"
+  },
+  {
+    "lt": "šaltas",
+    "en": "cold",
+    "category": "12_adjectives",
+    "pronunciation": "shaltas"
+  },
+  {
+    "lt": "karštas",
+    "en": "hot",
+    "category": "12_adjectives",
+    "pronunciation": "karshtas"
+  },
+  {
+    "lt": "vėsus",
+    "en": "cool",
+    "category": "12_adjectives",
+    "pronunciation": "vėsus"
+  },
+  {
+    "lt": "lengvas",
+    "en": "light|easy",
+    "category": "12_adjectives",
+    "pronunciation": "lengvas"
+  },
+  {
+    "lt": "sunkus",
+    "en": "heavy|difficult",
+    "category": "12_adjectives",
+    "pronunciation": "sunkus"
+  },
+  {
+    "lt": "greitas",
+    "en": "fast",
+    "category": "12_adjectives",
+    "pronunciation": "graytas"
+  },
+  {
+    "lt": "lėtas",
+    "en": "slow",
+    "category": "12_adjectives",
+    "pronunciation": "lėtas"
+  },
+  {
+    "lt": "stiprus",
+    "en": "strong",
+    "category": "12_adjectives",
+    "pronunciation": "stiprus"
+  },
+  {
+    "lt": "silpnas",
+    "en": "weak",
+    "category": "12_adjectives",
+    "pronunciation": "silpnas"
+  },
+  {
+    "lt": "laimingas",
+    "en": "happy",
+    "category": "12_adjectives",
+    "pronunciation": "leyemingas"
+  },
+  {
+    "lt": "liūdnas",
+    "en": "sad",
+    "category": "12_adjectives",
+    "pronunciation": "lioodnas"
+  },
+  {
+    "lt": "piktas",
+    "en": "angry",
+    "category": "12_adjectives",
+    "pronunciation": "piktas"
+  },
+  {
+    "lt": "ramus",
+    "en": "calm",
+    "category": "12_adjectives",
+    "pronunciation": "ramus"
+  },
+  {
+    "lt": "įdomus",
+    "en": "interesting",
+    "category": "12_adjectives",
+    "pronunciation": "eedomus"
+  },
+  {
+    "lt": "nuobodus",
+    "en": "boring",
+    "category": "12_adjectives",
+    "pronunciation": "nwohbodus"
+  },
+  {
+    "lt": "svarbus",
+    "en": "important",
+    "category": "12_adjectives",
+    "pronunciation": "svarbus"
+  },
+  {
+    "lt": "paprastas",
+    "en": "simple",
+    "category": "12_adjectives",
+    "pronunciation": "paprastas"
+  },
+  {
+    "lt": "teisingas",
+    "en": "correct",
+    "category": "12_adjectives",
+    "pronunciation": "taysingas"
+  },
+  {
+    "lt": "neteisingas",
+    "en": "incorrect",
+    "category": "12_adjectives",
+    "pronunciation": "netaysingas"
+  },
+  {
+    "lt": "švarus",
+    "en": "clean",
+    "category": "12_adjectives",
+    "pronunciation": "shvarus"
+  },
+  {
+    "lt": "purvinas",
+    "en": "dirty",
+    "category": "12_adjectives",
+    "pronunciation": "purvinas"
+  },
+  {
+    "lt": "pilnas",
+    "en": "full",
+    "category": "12_adjectives",
+    "pronunciation": "pilnas"
+  },
+  {
+    "lt": "tuščias",
+    "en": "empty",
+    "category": "12_adjectives",
+    "pronunciation": "tushchyahs"
+  },
+  {
+    "lt": "panašus",
+    "en": "similar",
+    "category": "12_adjectives",
+    "pronunciation": "panashus"
+  },
+  {
+    "lt": "skirtingas",
+    "en": "different",
+    "category": "12_adjectives",
+    "pronunciation": "skirtingas"
+  },
+  {
+    "lt": "pakankamai",
+    "en": "enough",
+    "category": "12_adjectives",
+    "pronunciation": "pakankameye"
+  },
+  {
+    "lt": "kūnas",
+    "en": "body",
+    "category": "13_body_health",
+    "pronunciation": "koonas"
+  },
+  {
+    "lt": "galva",
+    "en": "head",
+    "category": "13_body_health",
+    "pronunciation": "galva"
+  },
+  {
+    "lt": "veidas",
+    "en": "face",
+    "category": "13_body_health",
+    "pronunciation": "vaydas"
+  },
+  {
+    "lt": "akis",
+    "en": "eye",
+    "category": "13_body_health",
+    "pronunciation": "akis"
+  },
+  {
+    "lt": "ausis",
+    "en": "ear",
+    "category": "13_body_health",
+    "pronunciation": "owsis"
+  },
+  {
+    "lt": "nosis",
+    "en": "nose",
+    "category": "13_body_health",
+    "pronunciation": "nosis"
+  },
+  {
+    "lt": "burna",
+    "en": "mouth",
+    "category": "13_body_health",
+    "pronunciation": "burna"
+  },
+  {
+    "lt": "dantis",
+    "en": "tooth",
+    "category": "13_body_health",
+    "pronunciation": "dantis"
+  },
+  {
+    "lt": "kaklas",
+    "en": "neck",
+    "category": "13_body_health",
+    "pronunciation": "kaklas"
+  },
+  {
+    "lt": "petys",
+    "en": "shoulder",
+    "category": "13_body_health",
+    "pronunciation": "petys"
+  },
+  {
+    "lt": "ranka",
+    "en": "arm|hand",
+    "category": "13_body_health",
+    "pronunciation": "ranka"
+  }
+]

@@ -1,0 +1,181 @@
+:root{
+  /* Soft Lithuanian nature palette */
+  --bg: #eef6f1;          /* very soft pastel green */
+  --card: #ffffff;       /* clean paper */
+  --ink: #1e2a24;        /* dark green-black */
+  --muted: #5f6f66;      /* muted green-grey */
+  --accent: #9fcfb8;     /* gentle green accent */
+  --accent-strong: #6fb89a; /* slightly stronger green */
+  --border: rgba(30,42,36,0.12);
+  --shadow: 0 8px 22px rgba(30,42,36,0.08);
+
+  --radius: 18px;
+}
+
+* { box-sizing: border-box; }
+
+body{
+  margin: 0;
+  padding: 24px;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.wrap{
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+/* ---------- Header ---------- */
+
+.top{
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+h1{
+  margin: 0;
+  font-size: 28px;
+  font-weight: 650;
+  letter-spacing: 0.2px;
+}
+
+/* ---------- Controls ---------- */
+
+.controls{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.label{
+  display: grid;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+select,
+.input{
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--card);
+  font-size: 14px;
+  min-width: 220px;
+  color: var(--ink);
+}
+
+select:focus,
+.input:focus{
+  outline: none;
+  border-color: var(--accent-strong);
+  box-shadow: 0 0 0 3px rgba(111,184,154,0.25);
+}
+
+.stats{
+  display: grid;
+  gap: 6px;
+  font-size: 14px;
+  padding: 10px 12px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card);
+}
+
+.muted{ color: var(--muted); }
+
+/* ---------- Card ---------- */
+
+.card{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+.prompt{
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.pron{
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+
+.translation{
+  margin-top: 12px;
+  font-size: 22px;
+}
+
+/* ---------- Buttons & layout ---------- */
+
+.row{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+
+.btn{
+  padding: 10px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--accent);
+  color: var(--ink);
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.05s ease;
+}
+
+.btn:hover{
+  background: var(--accent-strong);
+}
+
+.btn:active{
+  transform: translateY(1px);
+}
+
+/* Secondary buttons */
+#nextLearn,
+#nextTest{
+  background: transparent;
+}
+
+#nextLearn:hover,
+#nextTest:hover{
+  background: rgba(159,207,184,0.35);
+}
+
+/* ---------- Feedback & meta ---------- */
+
+.feedback{
+  margin-top: 10px;
+  font-size: 16px;
+  min-height: 22px;
+}
+
+.meta{
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.hidden{ display: none; }
+
+/* ---------- Footer hint ---------- */
+
+.hint{
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--muted);
+}
