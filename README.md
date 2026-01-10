@@ -152,3 +152,12 @@ lithuanian_app/
 │ └── app.js
 │
 └── app.db # Local database (NOT committed to Git)
+
+Screenshots:
+<img width="773" height="382" alt="image" src="https://github.com/user-attachments/assets/922e6bf4-5d63-4e48-b8dd-f43743226c1b" />
+<img width="768" height="465" alt="image" src="https://github.com/user-attachments/assets/05b62cad-3229-4a92-bc14-95b6d7c364c2" />
+<img width="226" height="377" alt="image" src="https://github.com/user-attachments/assets/f9f81026-c9a1-431a-8b0a-afff4fc566bb" />
+<img width="763" height="385" alt="image" src="https://github.com/user-attachments/assets/9bee7e82-a327-412e-a70d-11216c182d59" />
+
+
+
