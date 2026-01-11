@@ -7,40 +7,6 @@ Built with **Python (Flask)**, **SQLite**, **HTML/CSS**, and **JavaScript**.
 
 ---
 
-## Features
-
-- 📚 **500 Lithuanian words** organised by category and difficulty
-- 👀 **Learn mode**
-  - See the Lithuanian word
-  - Reveal the English translation
-  - View a beginner-friendly pronunciation hint
-- ✍️ **Test mode**
-  - Type the English translation
-  - Get instant feedback
-  - Score tracking (only in Test mode)
-- 🗂️ Category selection (e.g. greetings, basics, food, verbs)
-- 🧠 Progress stored locally in a database
-- 🌿 Soft, calm, nature-inspired UI
-
----
-
-## Tech Stack
-
-**Backend**
-- Python
-- Flask
-- SQLite
-
-**Frontend**
-- HTML
-- CSS
-- Vanilla JavaScript
-
-**Data**
-- `words.json` – source of truth for vocabulary and pronunciation
-
----
-
 ## Project Structure
 
 # Lithuanian Flashcard Learning App 🇱🇹🌿
@@ -85,52 +51,6 @@ Built with **Python (Flask)**, **SQLite**, **HTML/CSS**, and **JavaScript**.
 - `words.json` – source of truth for vocabulary and pronunciation
 
 ---
-
-## Project Structure
-
-# Lithuanian Flashcard Learning App 🇱🇹🌿
-
-A simple, beginner-friendly language learning web app inspired by flashcards.  
-The app helps users learn Lithuanian vocabulary through **Learn** and **Test** modes, with pronunciation hints and category-based progression.
-
-Built with **Python (Flask)**, **SQLite**, **HTML/CSS**, and **JavaScript**.
-
----
-
-## Features
-
-- 📚 **500 Lithuanian words** organised by category and difficulty
-- 👀 **Learn mode**
-  - See the Lithuanian word
-  - Reveal the English translation
-  - View a beginner-friendly pronunciation hint
-- ✍️ **Test mode**
-  - Type the English translation
-  - Get instant feedback
-  - Score tracking (only in Test mode)
-- 🗂️ Category selection (e.g. greetings, basics, food, verbs)
-- 🧠 Progress stored locally in a database
-- 🌿 Soft, calm, nature-inspired UI
-
----
-
-## Tech Stack
-
-**Backend**
-- Python
-- Flask
-- SQLite
-
-**Frontend**
-- HTML
-- CSS
-- Vanilla JavaScript
-
-**Data**
-- `words.json` – source of truth for vocabulary and pronunciation
-
----
-
 ## Project Structure
 
 lithuanian_app/
@@ -152,6 +72,13 @@ lithuanian_app/
 │ └── app.js
 │
 └── app.db # Local database (NOT committed to Git)
+## Running the App (Windows – PowerShell)
+
+Activate virtual environment:
+.\.venv\Scripts\Activate.ps1
+
+Run the app:
+python app.py
 
 Screenshots:
 <img width="773" height="382" alt="image" src="https://github.com/user-attachments/assets/922e6bf4-5d63-4e48-b8dd-f43743226c1b" />
