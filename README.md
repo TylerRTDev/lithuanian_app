@@ -7,17 +7,6 @@ Built with **Python (Flask)**, **SQLite**, **HTML/CSS**, and **JavaScript**.
 
 ---
 
-## Project Structure
-
-# Lithuanian Flashcard Learning App 🇱🇹🌿
-
-A simple, beginner-friendly language learning web app inspired by flashcards.  
-The app helps users learn Lithuanian vocabulary through **Learn** and **Test** modes, with pronunciation hints and category-based progression.
-
-Built with **Python (Flask)**, **SQLite**, **HTML/CSS**, and **JavaScript**.
-
----
-
 ## Features
 
 - 📚 **500 Lithuanian words** organised by category and difficulty
@@ -74,11 +63,38 @@ lithuanian_app/
 └── app.db # Local database (NOT committed to Git)
 ## Running the App (Windows – PowerShell)
 
-Activate virtual environment:
-.\.venv\Scripts\Activate.ps1
+```
+# create virtual environment
+python -m venv myenv
 
-Run the app:
+# activate virtual environment
+myenv\Scripts\activate
+```
+
+```
+# install requirements.txt
+pip install -r requirements.txt
+```
+
+```
+# import additional words and pronunciations
+python import_words.py
+```
+
+```
+# run the app
 python app.py
+```
+
+Run all commands at once
+
+```
+python -m venv myenv
+myenv\Scripts\activate
+pip install -r requirements.txt
+python import_words.py
+python app.py
+```
 
 Screenshots:
 <img width="773" height="382" alt="image" src="https://github.com/user-attachments/assets/922e6bf4-5d63-4e48-b8dd-f43743226c1b" />
