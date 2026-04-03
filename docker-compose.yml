@@ -1,0 +1,11 @@
+services:
+  lithuanian-app:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - lithuanian_data:/app
+    restart: unless-stopped
+
+volumes:
+  lithuanian_data:
